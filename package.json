@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/kud/mcp-bsky/issues"
   },
-  "homepage": "https://github.com/kud/mcp-bsky#readme",
+  "homepage": "https://kud.io/projects/mcp-bsky",
   "engines": {
     "node": ">=20.0.0"
   },
